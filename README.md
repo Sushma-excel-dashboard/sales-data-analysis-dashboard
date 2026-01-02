@@ -54,7 +54,7 @@ This project focuses on analyzing sales data to extract meaningful business insi
 - Payment Mode Analysis  
 - Delivery Status Impact  
 
-*(Dashboard screenshots are included in the `` folder)*
+dashboard_preview.png
 
 ---
 
