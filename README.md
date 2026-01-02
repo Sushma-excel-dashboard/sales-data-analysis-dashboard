@@ -56,7 +56,7 @@ This project focuses on analyzing sales data to extract meaningful business insi
 ### Overall Sales Dashboard
 
 <p align="center">
-  <img src="https://github.com/Sushma-excel-dashboard/sales-data-analysis-dashboard/blob/main/dashbaord%20pic%20.jpeg" alt="Sales Dashboard" width="800">
+  <img src="https://github.com/Sushma-excel-dashboard/sales-data-analysis-dashboard/blob/main/dashbaord%20pic%20.jpeg" alt="Sales Dashboard">
 </p>
 
 ---
