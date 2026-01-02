@@ -54,9 +54,9 @@ This project focuses on analyzing sales data to extract meaningful business insi
 - Payment Mode Analysis  
 - Delivery Status Impact  
 ### Overall Sales Dashboard
-<a"https://github.com/Sushma-excel-dashboard/sales-data-analysis-dashboard/blob/main/dashbaord%20pic%20.jpeg"; sales dashboard 
+
 <p align="center">
-  <img src="images/dashboard_preview.png" alt="Sales Dashboard" width="800">
+  <img src="https://github.com/Sushma-excel-dashboard/sales-data-analysis-dashboard/blob/main/dashbaord%20pic%20.jpeg" alt="Sales Dashboard" width="800">
 </p>
 
 ---
