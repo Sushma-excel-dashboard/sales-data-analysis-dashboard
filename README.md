@@ -89,3 +89,11 @@ An interactive Excel dashboard was created to visualize key KPIs and insights, i
 ## ✅ Final Conclusion
 This project demonstrates how structured sales data can be transformed into meaningful business insights using Excel. The analysis helps identify high-performing products and regions, optimize pricing and discount strategies, reduce returns, and improve overall business profitability.
 
+## 👤 Author & Contact
+**Name:** Sushma Singh  
+**Role:** Data Analysis | Excel Dashboard Design 
+**Location:** India
+
+📧 Email: sushmasingh9317@gmail.com  
+🔗 GitHub: https://github.com/Sushma-excel-dashboard
+🔗 LinkedIn: https://www.linkedin.com/in/sushma-singh-00737b34b/
